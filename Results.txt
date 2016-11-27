@@ -1,0 +1,5 @@
+1st order HMM:
+Trained using train20:
+err on test20: 0.13. err on test10: 0.07
+Trained using train10:
+err on test20: 0.13. err on test10: 0.068
